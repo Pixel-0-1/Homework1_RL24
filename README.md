@@ -1,14 +1,13 @@
 # Homework1
 
-## Clone the repo:
+- Clone the repo:
 
-```bash
-git clone https://github.com/Pixel-0-1/Homework1.git
+$ git clone https://github.com/Pixel-0-1/Homework1.git
 
 
-## Build the new package:
+- Build the new package:
 
-colcon build
+$ colcon build
 
 
 - Source the setup files:
